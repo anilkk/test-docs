@@ -1,0 +1,3 @@
+[submodule "test-bmu-raml"]
+	path = test-bmu-raml
+	url = https://github.com/anilkk/test-bmu-raml
